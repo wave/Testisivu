@@ -6,3 +6,9 @@ body {
 h1 {
     display: inline;
 }
+
+p {
+    font: roboto; 
+    font-style: italic;
+    color: steelblue;
+}
