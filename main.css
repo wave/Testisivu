@@ -1,0 +1,9 @@
+body {
+    background-color: lightsteelblue;
+    border:  10px solid steelblue; 
+}
+
+h1 {
+    background-color: aquamarine;
+    display: inline;
+}
